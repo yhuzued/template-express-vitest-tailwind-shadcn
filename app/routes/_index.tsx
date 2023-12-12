@@ -12,7 +12,7 @@ export default function Index() {
   return (
     <>
       <h1>Remix dengan express, vitest, tailwind, shadcn</h1>
-      <Button variant="outline">Tombol</Button>
+      <Button variant="outline">Login</Button>
     </>
   );
 }
